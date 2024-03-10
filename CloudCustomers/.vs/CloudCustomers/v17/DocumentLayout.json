@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\CloudCustomers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DD9690-14DA-4C8E-BC3C-C369E800E905}|CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj|e:\\projects\\cloudcustomers\\cloudcustomers.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DD9690-14DA-4C8E-BC3C-C369E800E905}|CloudCustomers.UnitTests\\CloudCustomers.UnitTests.csproj|solutionrelative:cloudcustomers.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Projects\\CloudCustomers\\CloudCustomers.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CloudCustomers.UnitTests\\UnitTest1.cs",
+              "ToolTip": "E:\\Projects\\CloudCustomers\\CloudCustomers.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "CloudCustomers.UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:49:10.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
